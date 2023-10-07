@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cc": "cpp",
+        "mysql.h": "c",
+        "*.ic": "cpp"
+    }
+}
